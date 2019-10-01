@@ -1,0 +1,12 @@
+name: activity
+title: activity
+username:
+account: humanactivity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 497245
+bundleId: 1626348
+url: https://humanactivity.shinyapps.io/activity/
+when: 1538803914.61843
+asMultiple: FALSE
+asStatic: FALSE
