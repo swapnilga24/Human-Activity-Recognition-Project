@@ -8,8 +8,11 @@ algorithms and compared for max accuracy. The language used for that is R and us
 code. It was then integrated with a UI through PHP.
 
 Software Tools/Skills:
+
  Python, R, ML, PHP, HTML, CSS.
+
 Role & Responsibilities:
+
  Requirements analysis of new features
  Requirements analysis of data set
  Worked on Different Machine learning Algorithms.
